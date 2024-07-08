@@ -2,7 +2,7 @@ var fs = require('fs');
 var fromjson = require('ngraph.fromjson');
 var centrality = require('ngraph.centrality');
 var g = require('ngraph.graph')();
-//var g = fromjson(require('./comm_27.json'));
+
 
 
 
